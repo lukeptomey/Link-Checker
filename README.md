@@ -1,2 +1,2 @@
 # Link-Checker
-## Iterates throught txt file to check if given links work.
+Iterates through txt file to check if given links work.
